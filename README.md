@@ -4,4 +4,4 @@ According to statistics I collect by myself, my name is hard to pronounce which 
 
 My personal website is available [here](https://gunsodo.github.io). Feel free to take a look!
 
-![gunsodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunsodo&show_icons=true&bg_color=00000000)
+<!-- ![gunsodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunsodo&show_icons=true&bg_color=00000000) -->
